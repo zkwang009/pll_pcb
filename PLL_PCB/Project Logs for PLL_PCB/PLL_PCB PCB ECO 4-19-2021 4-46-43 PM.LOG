@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LDO_REF Pin=H16-1
+Removed Pin From Net: NetName=LF_VB Pin=H16-4
+Removed Pin From Net: NetName=LF_VB2 Pin=H16-10
+Added Pin To Net: NetName=LDO_REF Pin=H16-7
+Added Pin To Net: NetName=LF_VB2 Pin=H16-9
+Added Pin To Net: NetName=LF_VB Pin=H16-10
+Added Member To Class: ClassName=PLL_PCB Member=Component P1 BANANA_JACK_SMT
+Added Member To Class: ClassName=PLL_PCB Member=Component P2 BANANA_JACK_SMT

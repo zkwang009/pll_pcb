@@ -1,0 +1,6 @@
+Added Component: Designator=J6(CON_K_SMT_2d92)
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=REF2_CK_N Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Member To Class: ClassName=PLL_PCB Member=Component J6 CON_K_SMT_2d92

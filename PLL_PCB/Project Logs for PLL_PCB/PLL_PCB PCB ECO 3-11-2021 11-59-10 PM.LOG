@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=VDD_VCO Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=VDD_VCO Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=VDD_VCO Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=VDD_VCO Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=VDD_VCO Pin=C47-2
+Added Member To Class: ClassName=PLL_PCB Member=Component C19 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C26 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C33 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C40 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C47 Cap Semi

@@ -1,0 +1,68 @@
+Change Component Footprint: Designator=C51 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C52 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C61 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C62 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C70 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C71 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C80 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C81 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C89 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C90 Old Footprint=1608[0603] New Footprint=0402
+Added Member To Class: ClassName=PLL_PCB Member=Component C6 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C8 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C10 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C12 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C14 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C20 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C22 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C24 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C26 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C30 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C34 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C36 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C38 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C40 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C46 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C48 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C50 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C52 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C54 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C63 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C65 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C67 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C69 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C71 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C73 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C75 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C77 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C79 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C81 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C83 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C85 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C87 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C89 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C90 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C91 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C92 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C93 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C94 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C95 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component C96 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component H6 HEADER_2X2_SMT
+Added Member To Class: ClassName=PLL_PCB Member=Component H8 HEADER_2X2_SMT
+Added Member To Class: ClassName=PLL_PCB Member=Component H10 HEADER_2X2_SMT
+Added Member To Class: ClassName=PLL_PCB Member=Component H12 HEADER_2X2_SMT
+Added Member To Class: ClassName=PLL_PCB Member=Component H14 HEADER_2X2_SMT
+Added Member To Class: ClassName=PLL_PCB Member=Component H18 HEADER_2X2_SMT
+Added Member To Class: ClassName=PLL_PCB Member=Component H19 HEADER_2X6_SMT
+Added Member To Class: ClassName=PLL_PCB Member=Component R3 Res3
+Added Member To Class: ClassName=PLL_PCB Member=Component R6 Res3
+Added Member To Class: ClassName=PLL_PCB Member=Component R7 Res3
+Added Member To Class: ClassName=PLL_PCB Member=Component R9 Res3
+Added Member To Class: ClassName=PLL_PCB Member=Component R11 Res3
+Added Member To Class: ClassName=PLL_PCB Member=Component R13 Res3
+Added Member To Class: ClassName=PLL_PCB Member=Component U6 LP38511TJ-ADJ
+Added Member To Class: ClassName=PLL_PCB Member=Component U8 PLL_CHIP
+Added Member To Class: ClassName=PLL_PCB Member=Component U9 MAX13003
+Added Member To Class: ClassName=PLL_PCB Member=Component VR6 5K
+Added Member To Class: ClassName=PLL_PCB Member=Component VR7 5K

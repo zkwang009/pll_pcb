@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetC18_2 Pin=H11-2
+Added Pin To Net: NetName=NetC18_2 Pin=H11-4
+Added Pin To Net: NetName=NetC18_2 Pin=U8-11
+Change Net Name : Old Net Name=NetC18_2 New Net Name=VDD_LDO
+Change Net Color : Old Net Color=Yellow New Net Color=RGB(69, 129, 142)

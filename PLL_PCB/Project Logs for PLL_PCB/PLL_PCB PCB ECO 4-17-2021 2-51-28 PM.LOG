@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=EN_VDD_LDO Pin=H2-2
+Added Pin To Net: NetName=VDD33 Pin=H2-3
+Added Pin To Net: NetName=EN_VDD_LDO Pin=H2-4
+Added Member To Class: ClassName=PLL_PCB Member=Component C4 Cap Semi
+Added Member To Class: ClassName=PLL_PCB Member=Component H2 HEADER_2X2_SMT
+Added Member To Class: ClassName=PLL_PCB Member=Component J1 CON_K_SMT_2d92
+Added Member To Class: ClassName=PLL_PCB Member=Component J2 CON_K_SMT_2d92
+Added Member To Class: ClassName=PLL_PCB Member=Component J5 CON_K_SMT_2d92
+Added Member To Class: ClassName=PLL_PCB Member=Component J6 CON_K_SMT_2d92
+Added Member To Class: ClassName=PLL_PCB Member=Component P1 BANANA_JACK_SMT
+Added Room: Name=PLL_PCB

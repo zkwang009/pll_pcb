@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=VDD_PD_M Pin=VR2-3
+Removed Pin From Net: NetName=VDD_PD Pin=VR3-3
+Removed Pin From Net: NetName=VDD_VCO Pin=VR5-3
+Change Component Footprint: Designator=C18 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C19 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C20 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C21 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C22 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C23 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C24 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C26 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C27 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C28 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C29 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C30 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C31 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C32 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C34 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C35 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C36 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C37 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C38 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C39 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C40 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C42 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C43 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C44 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C45 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C46 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C47 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C48 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C50 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C51 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C52 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C53 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C54 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C55 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C56 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=VR1 Old Footprint=POT_3214_TOP New Footprint=PV36
+Change Component Footprint: Designator=VR2 Old Footprint=POT_3214_TOP New Footprint=PV36
+Change Component Footprint: Designator=VR3 Old Footprint=POT_3214_TOP New Footprint=PV36
+Change Component Footprint: Designator=VR4 Old Footprint=POT_3214_TOP New Footprint=PV36
+Change Component Footprint: Designator=VR5 Old Footprint=POT_3214_TOP New Footprint=PV36
+Change Component Footprint: Designator=VR6 Old Footprint=POT_3214_TOP New Footprint=PV36
+Change Component Footprint: Designator=VR7 Old Footprint=POT_3214_TOP New Footprint=PV36
+Change Component Footprint: Designator=VR8 Old Footprint=POT_3214_TOP New Footprint=PV36
+Change Component Library : Designator=J1 Old Library=BWRC.SchLib New Library=200G_TX_LIB.SchLib
+Change Component Library : Designator=J2 Old Library=BWRC.SchLib New Library=200G_TX_LIB.SchLib
+Change Component Library : Designator=J5 Old Library=BWRC.SchLib New Library=200G_TX_LIB.SchLib
+Change Component Library : Designator=J6 Old Library=BWRC.SchLib New Library=200G_TX_LIB.SchLib
+Added Pin To Net: NetName=NC2 Pin=VR3-3
+Added Pin To Net: NetName=NC4 Pin=VR5-3
+Change Net Name : Old Net Name=NC1 New Net Name=NC5
+Added Pin To Net: NetName=NC1 Pin=VR2-3
+Added Net: Name=NC1
+Added Room: Name=PLL_PCB

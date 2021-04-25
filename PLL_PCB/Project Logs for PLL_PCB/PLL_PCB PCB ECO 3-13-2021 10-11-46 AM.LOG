@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=GND Pin=H15-1
+Added Pin To Net: NetName=GND Pin=H15-2
+Added Pin To Net: NetName=GND Pin=H15-3
+Added Pin To Net: NetName=VDD12_0 Pin=H15-4
+Added Pin To Net: NetName=VDD12_0 Pin=H15-5
+Added Pin To Net: NetName=VDD12_0 Pin=H15-6
+Added Pin To Net: NetName=SCAN_CLKA Pin=H15-7
+Added Pin To Net: NetName=SCAN_CLKB Pin=H15-8
+Added Pin To Net: NetName=SCAN_UPDATE Pin=H15-9
+Added Pin To Net: NetName=SCAN_IN Pin=H15-10
+Added Pin To Net: NetName=SCAN_SEL Pin=H15-11
+Added Pin To Net: NetName=SCAN_OUT Pin=H15-12
+Added Member To Class: ClassName=PLL_PCB Member=Component H15 HEADER_2X6_SMT

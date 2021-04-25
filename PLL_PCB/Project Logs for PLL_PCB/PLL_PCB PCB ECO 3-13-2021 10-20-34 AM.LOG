@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=IREF Pin=H17-1
+Added Pin To Net: NetName=BUF_IREF Pin=H17-2
+Added Pin To Net: NetName=VCO_IREF Pin=H17-4
+Added Pin To Net: NetName=GND Pin=H17-5
+Added Pin To Net: NetName=IREF2 Pin=H17-7
+Added Pin To Net: NetName=BUF_IREF2 Pin=H17-8
+Added Pin To Net: NetName=VCO_IREF2 Pin=H17-10
+Added Pin To Net: NetName=GND Pin=H17-11
+Added Member To Class: ClassName=PLL_PCB Member=Component H17 HEADER_2X6_SMT
