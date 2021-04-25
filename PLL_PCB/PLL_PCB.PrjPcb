@@ -41,23 +41,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\200G_TX_PCB3\Job1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document2]
 DocumentPath=..\..\AltiumGit\BWRC-Libs\BWRC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +57,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HCDOKTCH
 
-[Document3]
+[Document2]
 DocumentPath=..\..\AltiumGit\BWRC-Libs\BWRC.PvLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document3]
 DocumentPath=..\..\AltiumGit\BWRC-Libs\BWRC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPLQFJAE
 
-[Document5]
+[Document4]
 DocumentPath=..\..\AltiumGit\BWRC-Libs\LAYER+NUMBERS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=PLL_PCB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFMIHXRG
 
-[Document7]
+[Document6]
 DocumentPath=..\Libraries\200G_TX_LIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GTWRDJHI
 
-[Document8]
+[Document7]
 DocumentPath=..\Libraries\200G_TX_LIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFBEAOWO
 
-[Document9]
+[Document8]
 DocumentPath=PLL_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -194,10 +177,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FBPTOCBP
 
 [GeneratedDocument1]
-DocumentPath=..\200G_TX_PCB3\Project Outputs for 200G_TX_PCB3\Design Rule Check - 200G_TX_PCB3.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for PLL_PCB\Design Rule Check - PLL_PCB.html
 DItemRevisionGUID=
 
